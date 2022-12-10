@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "nama": "Kevin",
+      "alamat": "Indonesia",
+      "kelamin": "Laki - Laki",
+      "tglLahir": "2022-12-24",
+      "foto": "blob:http://localhost:3000/3ee50c0e-cd17-4453-8014-e6c7f4032b94",
+      "cv": "blob:http://localhost:3000/c5acdc8e-5ec6-483d-a717-4875bde1d26a",
+      "sertifikat": "blob:http://localhost:3000/ccf5482a-d688-44c2-8054-e95e49a326f2",
+      "id": 1
+    }
+  ]
+}
